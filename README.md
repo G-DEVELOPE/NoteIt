@@ -71,4 +71,4 @@
 
 - Contiene los estilos para que las páginas se vean bonitas y organizadas.
 
-¡Esperamos que disfrutes usando El Diario del Programador!
+¡Esperamos que disfrutes usando Notelt!
