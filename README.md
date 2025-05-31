@@ -1,6 +1,6 @@
-# El Diario del Programador
+# Notelt
 
-¡Bienvenido a El Diario del Programador! Este es un proyecto donde puedes crear, ver y gestionar tus notas. También puedes registrarte e iniciar sesión para mantener tus notas seguras.
+¡Bienvenido a Notelt! Este es un proyecto donde puedes crear, ver y gestionar tus notas. También puedes registrarte e iniciar sesión para mantener tus notas seguras.
 
 ## ¿Qué puedes hacer con este proyecto?
 
